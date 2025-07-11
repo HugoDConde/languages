@@ -1,0 +1,2 @@
+# Disclaimer
+El producto se creó hace tiempo y se provee "tal cual". Bajo ninguna teoría legal es el autor responsable de fallos o errores que pueda tener el software ni de perjuicios que pueda ocasionar. Si lo usa, lo hace bajo su propia responsabilidad y riesgo. Es libre de revisar o modificar el código a placer.
